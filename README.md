@@ -3,5 +3,6 @@
 ## Description
 This site is a landing page for a password generator.
 
-This is the link to the live site: 
+This is the link to the live site: https://rachelsaito.github.io/Password_Generator/ 
+
 
